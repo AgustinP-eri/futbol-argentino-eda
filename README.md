@@ -30,6 +30,3 @@ Incluye gráficos estilizados en modo oscuro para facilitar la presentación.
 - Los equipos locales tienden a anotar más goles, mostrando la clásica "ventaja de localía".
 
 ---
-
-📣 Si te interesan más análisis de datos con Python, ¡seguime y conectemos!
-
