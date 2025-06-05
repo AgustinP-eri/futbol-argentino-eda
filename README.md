@@ -18,7 +18,7 @@ Este proyecto analiza más de 34,000 partidos del fútbol argentino profesional,
 
 ## 📎 Notebook
 
-Podés acceder al análisis completo acá 👉 [`futbol_eda_argentina.ipynb`](futbol_eda_argentina.ipynb)
+Podés acceder al análisis completo acá 👉 [`FutbolArgEDA.ipynb`](FutbolArgEDA.ipynb)
 
 ## 📷 Visualizaciones
 
